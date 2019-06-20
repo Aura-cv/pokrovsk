@@ -1,0 +1,282 @@
+# Translation of Plugins - Simple Lightbox - Development (trunk) in German
+# This file is distributed under the same license as the Plugins - Simple Lightbox - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-11-02 08:56:04+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: de\n"
+"Project-Id-Version: Plugins - Simple Lightbox - Development (trunk)\n"
+
+#: controller.php:343
+msgid "Are you sure you want to reset Simple Lightbox's settings?"
+msgstr "Bist du sicher, dass du die Einstellungen von Simple Lightbox zurücksetzen möchtest?"
+
+#. translators: Plugin requirements link text.
+#: includes/class-requirements-check.php:158
+msgid "Learn More"
+msgstr "Mehr erfahren"
+
+#. translators: 1: Plugin name
+#: includes/class-requirements-check.php:156
+msgid "Learn more about %1$s's requirements"
+msgstr "Mehr über die Systemanforderungen von %1$s erfahren"
+
+#. translators: 1: Plugin name. 2: PHP version requirement. 3: Plugin
+#. requirements link.
+#: includes/class-requirements-check.php:163
+msgid "%1$s requires PHP %2$s or higher.  Please have your hosting provider update PHP to enable Simple Lightbox. (%3$s)"
+msgstr "%1$s benötigt PHP %2$s oder höher. Bitte frage deinen Provider nach einer Aktualisierung für PHP, um Simple Lightbox aktivieren zu können. (%3$s)"
+
+#: controller.php:257
+msgid "Enable for Menus"
+msgstr "Für Menüs aktivieren"
+
+#: controller.php:262
+msgid "Group menu items separately"
+msgstr "Menü-Elemente separat gruppieren"
+
+#: controller.php:369
+msgid "Feedback &amp; Support"
+msgstr "Feedback &amp; Support"
+
+#: controller.php:328
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: includes/class.options.php:222
+msgid "Default"
+msgstr "Standard"
+
+#: includes/class.option.php:113
+msgid "Enabled"
+msgstr "Aktiviert"
+
+#: includes/class.fields.php:102
+msgid "Hidden Field"
+msgstr "Verstecktes Feld"
+
+#: includes/class.option.php:113
+msgid "Disabled"
+msgstr "Deaktiviert"
+
+#: controller.php:248
+msgid "Labels"
+msgstr "Formularfeld-Beschriftungen"
+
+#: controller.php:342
+msgid "Reset"
+msgstr "Zurücksetzen"
+
+#: includes/class.themes.php:40
+msgid "Theme"
+msgstr "Theme"
+
+#: controller.php:246
+msgid "Grouping"
+msgstr "Gruppierung"
+
+#: controller.php:245
+msgid "Activation"
+msgstr "Aktivierung"
+
+#: controller.php:251
+msgid "Enable Lightbox Functionality"
+msgstr "Lightbox aktivieren"
+
+#: controller.php:252
+msgid "Enable on Home page"
+msgstr "Auf Startseite aktivieren"
+
+#: controller.php:253
+msgid "Enable on Single Posts"
+msgstr "Für einzelne Beiträge aktivieren"
+
+#: controller.php:254
+msgid "Enable on Pages"
+msgstr "Auf Seiten aktivieren"
+
+#: controller.php:258
+msgid "Group items (for displaying as a slideshow)"
+msgstr "Elemente gruppieren (als Diahow darstellen)"
+
+#: controller.php:259
+msgid "Group items by Post (e.g. on pages with multiple posts)"
+msgstr "Elemente nach Beitrag gruppieren (z.B. auf Seiten mit mehreren Beiträgen)"
+
+#: controller.php:263
+msgid "Resize lightbox to fit in window"
+msgstr "Lightbox an Fenstergröße anpassen"
+
+#: controller.php:264
+msgid "Enable animations"
+msgstr "Animationen aktivieren"
+
+#: controller.php:265
+msgid "Start Slideshow Automatically"
+msgstr "Diashow automatisch starten"
+
+#: controller.php:266
+msgid "Slide Duration (Seconds)"
+msgstr "Zeit pro Bild (Sekunden)"
+
+#: controller.php:267
+msgid "Loop through items"
+msgstr "In Schleife anzeigen"
+
+#: controller.php:268
+msgid "Overlay Opacity (0 - 1)"
+msgstr "Overlay Deckkraft (0-1)"
+
+#: controller.php:269
+msgid "Enable default title"
+msgstr "Standard-Titel aktivieren"
+
+#: controller.php:270
+msgid "Loading indicator"
+msgstr "Lade-Indikator"
+
+#: controller.php:271
+msgid "Close button"
+msgstr "Button zum Schließen"
+
+#: controller.php:272
+msgid "Next Item button"
+msgstr "Button für nächstes Element"
+
+#: controller.php:273
+msgid "Previous Item button"
+msgstr "Button für voriges Element"
+
+#: controller.php:274
+msgid "Start Slideshow button"
+msgstr "Button zum Starten der Diashow"
+
+#: controller.php:275
+msgid "Stop Slideshow button"
+msgstr "Button zum Beenden der Diashow"
+
+#: controller.php:276
+msgid "Slideshow status format"
+msgstr "Diashow Status-Format"
+
+#: controller.php:326
+msgid "Lightbox"
+msgstr "Lightbox"
+
+#: controller.php:337
+msgid "Feedback & Support"
+msgstr "Feedback & Support"
+
+#: includes/class.admin.php:644
+msgid "The settings have been reset"
+msgstr "Die Einstellungen wurden zurückgesetzt"
+
+#: includes/class.admin_action.php:45 includes/class.admin_page.php:142
+#: includes/class.admin.php:646
+msgid "Access Denied"
+msgstr "Zugriff verweigert"
+
+#: includes/class.fields.php:43
+msgid "Default Element"
+msgstr "Standard Element"
+
+#: includes/class.fields.php:55
+msgid "Default Element (Closed Tag)"
+msgstr "Standard Element (geschlossenes Tag)"
+
+#: includes/class.fields.php:63
+msgid "Default Input Element"
+msgstr "Standard Eingabe Element"
+
+#: includes/class.fields.php:71
+msgid "Text Box"
+msgstr "Text Box"
+
+#: includes/class.fields.php:108
+msgid "Select tag"
+msgstr "Auswahl Tag"
+
+#: includes/class.fields.php:120
+msgid "Inline wrapper"
+msgstr "Inline Wrapper"
+
+#: includes/class.themes.php:65
+msgid "Baseline"
+msgstr "Grundlinie"
+
+#: includes/class.themes.php:76
+msgid "Default (Light)"
+msgstr "Standard (hell)"
+
+#: includes/class.themes.php:86
+msgid "Default (Dark)"
+msgstr "Standard (dunkel)"
+
+#. Plugin Name of the plugin
+#: main.php:27
+msgid "Simple Lightbox"
+msgstr "Simple Lightbox"
+
+#. Plugin URI of the plugin
+msgid "http://archetyped.com/tools/simple-lightbox/"
+msgstr "http://archetyped.com/tools/simple-lightbox/"
+
+#. Author of the plugin
+msgid "Archetyped"
+msgstr "Archetyped"
+
+#: controller.php:345
+msgid "Settings were not reset"
+msgstr "Einstellungen wurden nicht zurückgesetzt"
+
+#: controller.php:344
+msgid "Settings have been reset"
+msgstr "Einstellungen wurden zurückgesetzt"
+
+#: controller.php:247
+msgid "UI"
+msgstr "UI"
+
+#. Description of the plugin
+msgid "The highly customizable lightbox for WordPress"
+msgstr "Die anpassbare Lightbox für WordPress"
+
+#. Author URI of the plugin
+msgid "http://archetyped.com"
+msgstr "https://archetyped.com"
+
+#: controller.php:256
+msgid "Enable for Widgets"
+msgstr "Für Widgets aktivieren"
+
+#: controller.php:260
+msgid "Group gallery items separately"
+msgstr "Galerie-Elemente separat gruppieren"
+
+#: controller.php:261
+msgid "Group widget items separately"
+msgstr "Widget-Elemente separat gruppieren"
+
+#: controller.php:327
+msgid "Lightbox Settings"
+msgstr "Lightbox-Einstellungen"
+
+#: controller.php:355
+msgid "<p>Simple Lightbox thrives on your feedback!</p><p>Click the button below to <strong>get help</strong>, <strong>request a feature</strong>, or <strong>provide some feedback</strong>!</p>"
+msgstr "<p>Simple Lightbox würde sich über dein Feedback freuen!</p><p>Klicke auf den folgenden Button, um <strong>Hilfe zu erhalten</strong>, <strong>ein Feature vorzuschlagen</strong> oder <strong>Feedback zu geben</strong>!</p>"
+
+#: controller.php:359
+msgid "Get Support &amp; Provide Feedback"
+msgstr "Erhalte Support &amp; Gib uns Feedback"
+
+#: includes/class.admin.php:645
+msgid "<strong class=\"%1$s\">Notice:</strong> This update is a <strong class=\"%1$s\">Beta version</strong>. It is highly recommended that you test the update on a test server before updating the plugin on a production server."
+msgstr "<strong class=\"%1$s\">Hinweis:</strong> Bei diesem Update handelt es sich um eine <strong class=\"%1$s\">Beta Version</strong>. Es wird dringend empfohlen, dieses Update auf einem Test Server zu testen, bevor es in Produktion eingesetzt wird."
+
+#: controller.php:255
+msgid "Enable on Archive Pages (tags, categories, etc.)"
+msgstr "Auf Archiv-Seiten aktivieren (Tags, Kategorien, etc.)"

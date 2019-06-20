@@ -1,0 +1,12 @@
+<svg id="down" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 8 4">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #1e2336;
+      }
+    </style>
+  </defs>
+  <g id="arrow-drop-down">
+    <path id="Path_6" data-name="Path 6" class="cls-1" d="M0,63.75l4,4,4-4Z" transform="translate(0 -63.75)"/>
+  </g>
+</svg>
